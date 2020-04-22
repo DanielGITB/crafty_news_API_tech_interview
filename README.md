@@ -1,4 +1,5 @@
 # Comments Challenge
+By Daniel Bryant
 You are challenged to implement a feature for the Crafty News API.
 
 Title: "User can comment on an article"
